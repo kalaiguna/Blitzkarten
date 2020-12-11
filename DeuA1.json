@@ -1,0 +1,3422 @@
+[
+  {
+    "Artikel": "der",
+    "Noun": "Name",
+    "Plural": "Namen",
+    "Englisch": "Name"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Vorname",
+    "Plural": "Vornamen",
+    "Englisch": "First name"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Lieblingsfilm",
+    "Plural": "Lieblingsfilme",
+    "Englisch": "Favorite film"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kollege",
+    "Plural": "Kollegen",
+    "Englisch": "Collegue (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Mensch",
+    "Plural": "Menschen",
+    "Englisch": "People"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Partner",
+    "Plural": "-",
+    "Englisch": "Partner (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Beruf",
+    "Plural": "Berufe",
+    "Englisch": "Profession"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Architekt",
+    "Plural": "Architekten",
+    "Englisch": "Architecht (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Arzt",
+    "Plural": "�rzte",
+    "Englisch": "Doctor (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Boxer",
+    "Plural": "-",
+    "Englisch": "Boxer"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ingeniuer",
+    "Plural": "Ingeniuere",
+    "Englisch": "Engineer (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Journalist",
+    "Plural": "Journalisten",
+    "Englisch": "Journalist (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Koch",
+    "Plural": "K�che",
+    "Englisch": "Cook (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Professor",
+    "Plural": "Professoren",
+    "Englisch": "Professor (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Student",
+    "Plural": "Studenten",
+    "Englisch": "Student (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Taxifahrer",
+    "Plural": "-",
+    "Englisch": "Taxi driver (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Techniker",
+    "Plural": "-",
+    "Englisch": "Technician (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kalendar",
+    "Plural": "-",
+    "Englisch": "Calendar"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Tag",
+    "Plural": "Tage",
+    "Englisch": "Day"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Termin",
+    "Plural": "Termine",
+    "Englisch": "appointment"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Geburtsort",
+    "Plural": "Geburtsorte",
+    "Englisch": "Birth place"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Geburtstag",
+    "Plural": "Geburtstage",
+    "Englisch": "Birth day"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Wohnort",
+    "Plural": "Wohnorte",
+    "Englisch": "Living place"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Bus",
+    "Plural": "Busse",
+    "Englisch": "Bus"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Passagier",
+    "Plural": "Passagiere",
+    "Englisch": "Passenger"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Zug",
+    "Plural": "Z�ge",
+    "Englisch": "Train"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Bahnhof",
+    "Plural": "Bahnh�fe",
+    "Englisch": "Train Station"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Flughafen",
+    "Plural": "Flugh�fen",
+    "Englisch": "Airport"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Hafen",
+    "Plural": "H�fen",
+    "Englisch": "Port, Harbour"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Fluss",
+    "Plural": "Fl�sse",
+    "Englisch": "River"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ort",
+    "Plural": "Orte",
+    "Englisch": "Place"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Park",
+    "Plural": "Parks",
+    "Englisch": "Park"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Markt",
+    "Plural": "M�rkte",
+    "Englisch": "Market"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "See",
+    "Plural": "Seen",
+    "Englisch": "Sea, Lake"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Terminal",
+    "Plural": "Terminals",
+    "Englisch": "Terminal"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Turm",
+    "Plural": "T�rme",
+    "Englisch": "Tower"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Weg",
+    "Plural": "Wege",
+    "Englisch": "Way"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Plan",
+    "Plural": "Pl�ne",
+    "Englisch": "Plan"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Meter",
+    "Plural": "-",
+    "Englisch": "Metre"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Film",
+    "Plural": "Filme",
+    "Englisch": "Film"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Besucher",
+    "Plural": "-",
+    "Englisch": "Visitor"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Test",
+    "Plural": "Tests",
+    "Englisch": "Test"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Apfel",
+    "Plural": "�pfel",
+    "Englisch": "Apple"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Zucker",
+    "Plural": "-",
+    "Englisch": "Sugar"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Reis",
+    "Plural": "-",
+    "Englisch": "Rice"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Salat",
+    "Plural": "Salate",
+    "Englisch": "Salad"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Keks",
+    "Plural": "Kekse",
+    "Englisch": "Biscuit"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kuchen",
+    "Plural": "-",
+    "Englisch": "Cake"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Fisch",
+    "Plural": "Fische",
+    "Englisch": "Fish"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schinken",
+    "Plural": "-",
+    "Englisch": "chicken"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Joghurt",
+    "Plural": "Joghurts",
+    "Englisch": "Yoghurt"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "K�se",
+    "Plural": "-",
+    "Englisch": "Cheese"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Supermarkt",
+    "Plural": "Superm�rkte",
+    "Englisch": "Super market"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Bescher",
+    "Plural": "-",
+    "Englisch": ""
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Liter",
+    "Plural": "-",
+    "Englisch": "Litre"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Einkaufswagen",
+    "Plural": "-",
+    "Englisch": "Shopping cart"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Einkaufszettel",
+    "Plural": "-",
+    "Englisch": "Shopping/Grocery List"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kassenzettel",
+    "Plural": "-",
+    "Englisch": "Receipt"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kaffee",
+    "Plural": "Kaffees",
+    "Englisch": "Coffee"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Saft",
+    "Plural": "S�fte",
+    "Englisch": "Juice"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Tee",
+    "Plural": "Tees",
+    "Englisch": "Tea"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Wein",
+    "Plural": "Weine",
+    "Englisch": "Wine"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Computer",
+    "Plural": "-",
+    "Englisch": "Computer"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Sport",
+    "Plural": "-",
+    "Englisch": "Sports"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ehemann",
+    "Plural": "Ehem�nner",
+    "Englisch": "Husband"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ehepartner",
+    "Plural": "-",
+    "Englisch": "Spouse"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Gro�vater",
+    "Plural": "Gro�v�ter",
+    "Englisch": "Grand father"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Opa",
+    "Plural": "Opas",
+    "Englisch": "Grandpa"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Sohn",
+    "Plural": "S�hne",
+    "Englisch": "Son"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Vater",
+    "Plural": "V�ter",
+    "Englisch": "Father"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Verwandte",
+    "Plural": "Verwandten",
+    "Englisch": "Relative (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Hund",
+    "Plural": "Hunde",
+    "Englisch": "Dog"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Junge",
+    "Plural": "Jungen",
+    "Englisch": "Youth"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Urlaub",
+    "Plural": "Urlaubs",
+    "Englisch": "Vacation"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Chat",
+    "Plural": "Chats",
+    "Englisch": "Chat"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Preis",
+    "Plural": "Preise",
+    "Englisch": "Price"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Treffpunkt",
+    "Plural": "Treffpunkte",
+    "Englisch": "Meeting point"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ausflug",
+    "Plural": "-",
+    "Englisch": "Trip, outing"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "L�ffel",
+    "Plural": "-",
+    "Englisch": "Spoon"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kellner",
+    "Plural": "-",
+    "Englisch": "Waiter (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Teller",
+    "Plural": "Teller",
+    "Englisch": "Plate"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Biergarten",
+    "Plural": "Bierg�rten",
+    "Englisch": "Beer garden"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Regen",
+    "Plural": "-",
+    "Englisch": "Rain"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Empfang",
+    "Plural": "-",
+    "Englisch": "Reception"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Erfolg",
+    "Plural": "Erfolge",
+    "Englisch": "Success"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Leiter",
+    "Plural": "-",
+    "Englisch": "Manager (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Mitarbeiter",
+    "Plural": "-",
+    "Englisch": "Co-worker, Employee (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Raum",
+    "Plural": "R�ume",
+    "Englisch": "space, Room"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Wunsch",
+    "Plural": "W�nsche",
+    "Englisch": "Desire, wish"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kontakt",
+    "Plural": "Kontakte",
+    "Englisch": "Contact"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Nachteil",
+    "Plural": "Nachteile",
+    "Englisch": "Disadvantage"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Vorteil",
+    "Plural": "Vorteile",
+    "Englisch": "Advantage"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Nachbar",
+    "Plural": "Nachbarn",
+    "Englisch": "Neighbour (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Flur",
+    "Plural": "Flure",
+    "Englisch": "Corridor"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "K�hlschrank",
+    "Plural": "K�hlschranke",
+    "Englisch": "Refridgerator"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Herd",
+    "Plural": "Herde",
+    "Englisch": "Stove"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Drucker",
+    "Plural": "-",
+    "Englisch": "Printer"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Fernseher",
+    "Plural": "-",
+    "Englisch": "Television"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Vertrag",
+    "Plural": "Vertr�ge",
+    "Englisch": "Contract"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Tisch",
+    "Plural": "Tische",
+    "Englisch": "Table"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Balkon",
+    "Plural": "Balkons",
+    "Englisch": "Balcony"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schrank",
+    "Plural": "Schr�nke",
+    "Englisch": "Cupboard"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Sessel",
+    "Plural": "-",
+    "Englisch": "Armchair"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Stuhl",
+    "Plural": "St�hle",
+    "Englisch": "Chair"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Teppich",
+    "Plural": "Teppiche",
+    "Englisch": "Carpet"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Blumenstrau�",
+    "Plural": "Blumenstr�u�e",
+    "Englisch": "Bouquet"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Babysitter",
+    "Plural": "-",
+    "Englisch": "Baby sitter"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Job",
+    "Plural": "Jobs",
+    "Englisch": "Job"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Sportlehrer",
+    "Plural": "-",
+    "Englisch": "Sports teacher"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kunde",
+    "Plural": "Kunden",
+    "Englisch": "Customer (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schluss",
+    "Plural": "Schl�sse",
+    "Englisch": "Conclusion, End"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kurs",
+    "Plural": "Kurse",
+    "Englisch": "Course"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Garten",
+    "Plural": "G�rten",
+    "Englisch": "Garden"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schuh",
+    "Plural": "Schuhe",
+    "Englisch": "Shoe"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Handschuh",
+    "Plural": "Handschuhe",
+    "Englisch": "Hand glove"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "G�rtel",
+    "Plural": "G�rtel",
+    "Englisch": "Belt"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Anzug",
+    "Plural": "Anz�ge",
+    "Englisch": "Suit"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Mantel",
+    "Plural": "M�ntel",
+    "Englisch": "Winter Jacket"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Pulli",
+    "Plural": "Pullis",
+    "Englisch": "Pullover"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Stiefel",
+    "Plural": "Stiefel",
+    "Englisch": "Boots"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schal",
+    "Plural": "Schals",
+    "Englisch": "Shawl, Scarf"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schmuck",
+    "Plural": "-",
+    "Englisch": "Jewellery"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Laden",
+    "Plural": "L�den",
+    "Englisch": "Shop, Store"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Shop",
+    "Plural": "Shops",
+    "Englisch": "Shop"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Verk�ufer",
+    "Plural": "Verk�ufer",
+    "Englisch": "Seller, Vendor (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Katalog",
+    "Plural": "Kataloge",
+    "Englisch": "Catalog"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Verk�uferin",
+    "Plural": "Verk�uferinen",
+    "Englisch": "Seller, Vendor (f)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Rock",
+    "Plural": "R�cke",
+    "Englisch": "Skirt"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Stock",
+    "Plural": "Stockwerke",
+    "Englisch": "Floor"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Fotoapparat",
+    "Plural": "Fotoapparate",
+    "Englisch": "Camera"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ball",
+    "Plural": "B�lle",
+    "Englisch": "Ball"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Lippenstift",
+    "Plural": "Lippenstifte",
+    "Englisch": "Lipstick"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kugelschreiber",
+    "Plural": "-",
+    "Englisch": "Pencil"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Trend",
+    "Plural": "Trends",
+    "Englisch": "Trend"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Blick",
+    "Plural": "Blicke",
+    "Englisch": "Glimpse, Sight"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Designer",
+    "Plural": "-",
+    "Englisch": "Designer"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "K�nstler",
+    "Plural": "-",
+    "Englisch": "Artist, Performer"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Mund",
+    "Plural": "Munds",
+    "Englisch": "Mouth"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Finger",
+    "Plural": "Finger",
+    "Englisch": "Finger"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kopf",
+    "Plural": "K�pfe",
+    "Englisch": "Head"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Bauch",
+    "Plural": "B�uche",
+    "Englisch": "Stomach, Belly"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Fu�",
+    "Plural": "F��e",
+    "Englisch": "Foot"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "R�cken",
+    "Plural": "-",
+    "Englisch": "back"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Husten",
+    "Plural": "-",
+    "Englisch": "Cold"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schnupfen",
+    "Plural": "-",
+    "Englisch": "Cold (runny nose)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Hustensaft",
+    "Plural": "Hustens�fte",
+    "Englisch": "Cough syrup"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Tropfen",
+    "Plural": "Tropfen",
+    "Englisch": "Drop"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Verband",
+    "Plural": "Verb�nde",
+    "Englisch": "Bandage"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Unfall",
+    "Plural": "Unf�lle",
+    "Englisch": "Accident"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Arm",
+    "Plural": "Arme",
+    "Englisch": "Arm"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Krankenpfleger",
+    "Plural": "-",
+    "Englisch": "Nurse (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Arzthelfer",
+    "Plural": "-",
+    "Englisch": "Doctor's assistant (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Physiotherapeut",
+    "Plural": "Physiotherapeuten",
+    "Englisch": "Physiotherapist (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Apotheker",
+    "Plural": "-",
+    "Englisch": "Pharmacist (m)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Allgemeinarzt",
+    "Plural": "Allgemein�rzte",
+    "Englisch": "General Practitionar (Dr)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Notarzt",
+    "Plural": "-",
+    "Englisch": "Emergency Doctor"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Frauenarzt",
+    "Plural": "-",
+    "Englisch": "Gynacologist"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Zahnarzt",
+    "Plural": "-",
+    "Englisch": "Dentist"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Augenarzt",
+    "Plural": "-",
+    "Englisch": "Eye Doctor"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Urlaubsort",
+    "Plural": "Urlaubsorte",
+    "Englisch": "Vacation resort"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Koffer",
+    "Plural": "-",
+    "Englisch": "Suitcase"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Rucksack",
+    "Plural": "Rucks�cke",
+    "Englisch": "Backpack"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Badeanzug",
+    "Plural": "Badeanz�ge",
+    "Englisch": "Swimsuit"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Bikini",
+    "Plural": "Bikinis",
+    "Englisch": "Bikini"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Helm",
+    "Plural": "Helms",
+    "Englisch": "Helmet"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schlafsack",
+    "Plural": "Schlafs�cke",
+    "Englisch": "Sleeping bag"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Spaziergang",
+    "Plural": "Spazierg�nge",
+    "Englisch": "Walk"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Stadtplan",
+    "Plural": "Stadtpl�ne",
+    "Englisch": "City map"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Berg",
+    "Plural": "Berge",
+    "Englisch": "Mountain"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Sonnenschein",
+    "Plural": "-",
+    "Englisch": "Sun shine"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "�rger",
+    "Plural": "-",
+    "Englisch": "Anger"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Meister",
+    "Plural": "Meister",
+    "Englisch": "Master"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "J�ger",
+    "Plural": "J�ger",
+    "Englisch": "Hunter"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Himmel",
+    "Plural": "Himmel",
+    "Englisch": "Sky"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Stern",
+    "Plural": "Sterne",
+    "Englisch": "Star"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Wind",
+    "Plural": "Winde",
+    "Englisch": "Wind"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schnee",
+    "Plural": "-",
+    "Englisch": "Snow"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Mond",
+    "Plural": "Monde",
+    "Englisch": "Moon"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Korkenzieher",
+    "Plural": "Korkenzieher",
+    "Englisch": "Corkscrew (wine bottle opener)"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Monat",
+    "Plural": "Monate",
+    "Englisch": "Month"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Rat",
+    "Plural": "R�te",
+    "Englisch": "Advice"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Abend",
+    "Plural": "Abende",
+    "Englisch": "Evening"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Morgen",
+    "Plural": "Morgen",
+    "Englisch": "Tomorrow, Morning"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Lautsprecher",
+    "Plural": "Lautsprecher",
+    "Englisch": "Loud speaker"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Rabatt",
+    "Plural": "Rabatte",
+    "Englisch": "Discount"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Absender",
+    "Plural": "Absender",
+    "Englisch": "Sender"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Empf�nger",
+    "Plural": "Empf�nger",
+    "Englisch": "Receiver"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Abfahrtsort",
+    "Plural": "Abfahrtsorte",
+    "Englisch": "Destination"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Reisef�hrer",
+    "Plural": "Reisef�hrer",
+    "Englisch": "Tour Guide"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Eintritt",
+    "Plural": "Eintritte",
+    "Englisch": "Entry"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Betreff",
+    "Plural": "Betreffe",
+    "Englisch": "Subject"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Landwirt",
+    "Plural": "Landwirt",
+    "Englisch": "Farmer"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Wirt",
+    "Plural": "Wirte",
+    "Englisch": "Host, Landlord"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ausl�nder",
+    "Plural": "Ausl�nder",
+    "Englisch": "Foreigner"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Sitzplatz",
+    "Plural": "Sitzpl�tze",
+    "Englisch": "Seat"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Platz",
+    "Plural": "Pl�tze",
+    "Englisch": "Place, Space"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schl�ssel",
+    "Plural": "Schl�ssel",
+    "Englisch": "Key"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schalter",
+    "Plural": "Schalter",
+    "Englisch": "Ticket Counter"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kiosk",
+    "Plural": "Kioske",
+    "Englisch": "Kiosk"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Schirm",
+    "Plural": "Schirme",
+    "Englisch": "Umbrella"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Makler",
+    "Plural": "Makler",
+    "Englisch": "Broker"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Textbaustein",
+    "Plural": "Textbausteine",
+    "Englisch": "Text block"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Tagesablauf",
+    "Plural": "Tagesabl�ufe",
+    "Englisch": "Daily Routine"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Meinung",
+    "Plural": "Meinungen",
+    "Englisch": "Opinion"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ausgang",
+    "Plural": "Ausg�nge",
+    "Englisch": "Exit"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Ausweis",
+    "Plural": "Ausweise",
+    "Englisch": "ID Card"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Aufzug",
+    "Plural": "Aufz�ge",
+    "Englisch": "Lift"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Durst",
+    "Plural": "-",
+    "Englisch": "Thirst"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Hunger",
+    "Plural": "-",
+    "Englisch": "Hunger"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Bleistift",
+    "Plural": "Bleistifte",
+    "Englisch": "Pencil"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Kuli",
+    "Plural": "Kulis",
+    "Englisch": "Pen"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Stift",
+    "Plural": "Stifte",
+    "Englisch": "Pen"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Block",
+    "Plural": "Block",
+    "Englisch": "Block"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Radiergummi",
+    "Plural": "Radiergummis",
+    "Englisch": "Eraser"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Frosch",
+    "Plural": "Fr�sche",
+    "Englisch": "Frog"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Angeh�rige",
+    "Plural": "Angeh�rigen",
+    "Englisch": "Relatives"
+  },
+  {
+    "Artikel": "der",
+    "Noun": "Nachname",
+    "Plural": "Nachnamen",
+    "Englisch": "Last name"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Telefonnummer",
+    "Plural": "Telefonnummern",
+    "Englisch": "Telephone number"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Hausnummer",
+    "Plural": "Hausnummern",
+    "Englisch": "House number"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "E-Mail-Adresse",
+    "Plural": "E-Mail-Adressen",
+    "Englisch": "Email address"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Webseite",
+    "Plural": "Webseiten",
+    "Englisch": "Website"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Stra�e",
+    "Plural": "Stra�en",
+    "Englisch": "Street"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Postleitzahl",
+    "Plural": "Postleitzahlen",
+    "Englisch": "Postal code"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Stadt",
+    "Plural": "St�dte",
+    "Englisch": "City"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Schweiz",
+    "Plural": "-",
+    "Englisch": "Swiss"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sprache",
+    "Plural": "Sprachen",
+    "Englisch": "Language"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Freizeit",
+    "Plural": "-",
+    "Englisch": "Leisure time"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Lieblingsmusik",
+    "Plural": "-",
+    "Englisch": "favorite music"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Musik",
+    "Plural": "-",
+    "Englisch": "music"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Frau",
+    "Plural": "Frauen",
+    "Englisch": "Woman"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Freund",
+    "Plural": "Freunde",
+    "Englisch": "Friend (m)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Freundin",
+    "Plural": "Freundinen",
+    "Englisch": "Friend (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kollegin",
+    "Plural": "Kolleginen",
+    "Englisch": "Collegue (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "-",
+    "Plural": "Leute",
+    "Englisch": "Folks"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Partnerin",
+    "Plural": "Partnerinen",
+    "Englisch": "Partner (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Person",
+    "Plural": "Personen",
+    "Englisch": "Person"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Architektin",
+    "Plural": "Architektinen",
+    "Englisch": "Architecht (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "�rztin",
+    "Plural": "�rztinen",
+    "Englisch": "Doctor (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Boxerin",
+    "Plural": "Boxerinen",
+    "Englisch": "Boxer (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Firma",
+    "Plural": "Firmen",
+    "Englisch": "Company"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Ingeniuerin",
+    "Plural": "Ingeniuerinen",
+    "Englisch": "Engineer (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "K�chin",
+    "Plural": "K�chinen",
+    "Englisch": "Cook (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Professorin",
+    "Plural": "Professorinen",
+    "Englisch": "Professor (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Studentin",
+    "Plural": "Studentinen",
+    "Englisch": "Student (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Technikerin",
+    "Plural": "Technikerinen",
+    "Englisch": "Technician (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Woche",
+    "Plural": "Wochen",
+    "Englisch": "Week"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Fahrkarte",
+    "Plural": "Fahrkarten",
+    "Englisch": "Travel ticket"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "S-Bahn",
+    "Plural": "S-Bahnen",
+    "Englisch": "Suburban Railways"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "U-Bahn",
+    "Plural": "U-Bahnen",
+    "Englisch": "Underground Railways"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Stra�enbahn",
+    "Plural": "Stra�enbahnen",
+    "Englisch": "Tram"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kirche",
+    "Plural": "Kirchen",
+    "Englisch": "Church"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Banane",
+    "Plural": "Bananen",
+    "Englisch": "Banana"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Birne",
+    "Plural": "Birnen",
+    "Englisch": "Pear"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kiwi",
+    "Plural": "Kiwis",
+    "Englisch": "Kiwi"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Orange",
+    "Plural": "Orangen",
+    "Englisch": "Orange"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Nudel",
+    "Plural": "Nudeln",
+    "Englisch": "Noodles"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Gurke",
+    "Plural": "Gurken",
+    "Englisch": "Cucumber"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kartoffel",
+    "Plural": "Kartoffeln",
+    "Englisch": "Potato"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Tomate",
+    "Plural": "Tomaten",
+    "Englisch": "Tomato"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Zwiebel",
+    "Plural": "Zwiebeln",
+    "Englisch": "Onion"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Salami",
+    "Plural": "Salamis",
+    "Englisch": "Salami"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Wurst",
+    "Plural": "W�rste",
+    "Englisch": "Sausage"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Butter",
+    "Plural": "-",
+    "Englisch": "Butter"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sahne",
+    "Plural": "-",
+    "Englisch": "Cream"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "B�ckerei",
+    "Plural": "B�ckereien",
+    "Englisch": "Backery"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Metzgerei",
+    "Plural": "Metzgereien",
+    "Englisch": "Meat shop"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Flasche",
+    "Plural": "Flaschen",
+    "Englisch": "Bottle"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Packung",
+    "Plural": "Packungen",
+    "Englisch": "Package"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "T�te",
+    "Plural": "T�ten",
+    "Englisch": "Bag"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Cola",
+    "Plural": "Colas",
+    "Englisch": "Cola"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Milch",
+    "Plural": "-",
+    "Englisch": "Milk"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Suppe",
+    "Plural": "Suppen",
+    "Englisch": "Soup"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Pizza",
+    "Plural": "Pizzas",
+    "Englisch": "Pizza"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "-",
+    "Plural": "Pommes frites",
+    "Englisch": "Finger chips"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Einladung",
+    "Plural": "Einladungen",
+    "Englisch": "Invitation"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Schokolade",
+    "Plural": "Schokoladen",
+    "Englisch": "Chocolate"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Marmelade",
+    "Plural": "Marmeladen",
+    "Englisch": "Jam"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Schule",
+    "Plural": "Schulen",
+    "Englisch": "School"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Ehefrau",
+    "Plural": "Ehefrauen",
+    "Englisch": "Wife"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "-",
+    "Plural": "Eltern",
+    "Englisch": "Parents"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Familie",
+    "Plural": "Familien",
+    "Englisch": "Family"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "-",
+    "Plural": "Geschwister",
+    "Englisch": "Siblings"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Gro�mutter",
+    "Plural": "Gro�m�tter",
+    "Englisch": "Grand mother"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Oma",
+    "Plural": "Omas",
+    "Englisch": "Grandma"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "-",
+    "Plural": "Gro�eltern",
+    "Englisch": "Grand parents"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Tochter",
+    "Plural": "T�chter",
+    "Englisch": "Daughter"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Mutter",
+    "Plural": "M�tter",
+    "Englisch": "Mother"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Verwandte",
+    "Plural": "Verwandten",
+    "Englisch": "Relative (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Homepage",
+    "Plural": "Homepages",
+    "Englisch": "Home page"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Party",
+    "Plural": "Partys",
+    "Englisch": "Party"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Speisekarte",
+    "Plural": "Speisekarten",
+    "Englisch": "Menu card"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Messer",
+    "Plural": "-",
+    "Englisch": "Knife"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Gabel",
+    "Plural": "Gabeln",
+    "Englisch": "Fork"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kellnerin",
+    "Plural": "-",
+    "Englisch": "Waiter (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Rechnung",
+    "Plural": "Rechnungen",
+    "Englisch": "Bill"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Serviette",
+    "Plural": "Servietten",
+    "Englisch": "Napkin"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Apfelsaftschorle",
+    "Plural": "Apfelsaftschorlen",
+    "Englisch": "Apple soda"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Limonade",
+    "Plural": "Limonaden",
+    "Englisch": "Lemonade"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kneipe",
+    "Plural": "Kneipen",
+    "Englisch": "Pub"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Strandbar",
+    "Plural": "Strandbars",
+    "Englisch": "Beach bar"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Idee",
+    "Plural": "Ideen",
+    "Englisch": "Idea"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Anmeldung",
+    "Plural": "Anmeldungen",
+    "Englisch": "Registration"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kanne",
+    "Plural": "Kannen",
+    "Englisch": "Jug"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Trainerin",
+    "Plural": "Trainerinen",
+    "Englisch": "Trainer (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Abteilung",
+    "Plural": "Abteilungen",
+    "Englisch": "Department"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Leiterin",
+    "Plural": "Leiterinen",
+    "Englisch": "Manager (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Mitarbeiterin",
+    "Plural": "Mitarbeiterinen",
+    "Englisch": "Co-worker, Employee (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Toilette",
+    "Plural": "Toiletten",
+    "Englisch": "Toilet"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Taste",
+    "Plural": "Tasten",
+    "Englisch": "Key, Button"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kaffeemaschine",
+    "Plural": "Kaffeemaschinen",
+    "Englisch": "Coffee machine"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Werkstatt",
+    "Plural": "Werkst�tten",
+    "Englisch": "Workshop"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Personalabteilung",
+    "Plural": "Personalabteilungen",
+    "Englisch": "HR Dept"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Pr�sentation",
+    "Plural": "Pr�sentationen",
+    "Englisch": "Presentation"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Muttersprache",
+    "Plural": "Muttersprachen",
+    "Englisch": "Mother tongue"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Vermittlung",
+    "Plural": "Vermittlungen",
+    "Englisch": "Mediation"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Anrede",
+    "Plural": "Anreden",
+    "Englisch": "Salutation, Address, Title"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Unterschrift",
+    "Plural": "Unterschriften",
+    "Englisch": "Signature"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Frabe",
+    "Plural": "Farben",
+    "Englisch": "Colour"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Nachbarin",
+    "Plural": "Nachbarinnen",
+    "Englisch": "Neighbour (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "-",
+    "Plural": "M�bel",
+    "Englisch": "Furniture"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Treppe",
+    "Plural": "Treppen",
+    "Englisch": "Steps, Stairs"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Anzeige",
+    "Plural": "Anzeigen",
+    "Englisch": "Advertisement"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Gr��e",
+    "Plural": "Gr��en",
+    "Englisch": "Size"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Lampe",
+    "Plural": "Lampen",
+    "Englisch": "Light"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Waschmachine",
+    "Plural": "Waschmachinen",
+    "Englisch": "Washing machine"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sp�lmachine",
+    "Plural": "Sp�lmachinen",
+    "Englisch": "Dish Washer"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Wohnung",
+    "Plural": "Wohnungen",
+    "Englisch": "Flat, Apartment"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Miete",
+    "Plural": "Mieten",
+    "Englisch": "Rent"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Tasse",
+    "Plural": "Tassen",
+    "Englisch": "Cup"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "T�r",
+    "Plural": "T�re",
+    "Englisch": "Door"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Tasche",
+    "Plural": "Taschen",
+    "Englisch": "Bag"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "K�che",
+    "Plural": "K�chen",
+    "Englisch": "Kitchen"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Blume",
+    "Plural": "Blumen",
+    "Englisch": "Flower"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Krankenschwester",
+    "Plural": "Krankenschwestern",
+    "Englisch": "Nurse (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sekret�rin",
+    "Plural": "Sekret�rinen",
+    "Englisch": "Secretary (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kundin",
+    "Plural": "Kundinen",
+    "Englisch": "Customer (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Pause",
+    "Plural": "Pausen",
+    "Englisch": "Break"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "T�tigkeit",
+    "Plural": "T�tigkeiten",
+    "Englisch": "Activity, Occupation"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Bezahlung",
+    "Plural": "-",
+    "Englisch": "Pay, Payment"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Arbeitswelt",
+    "Plural": "Arbeitswelten",
+    "Englisch": "Work place"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Anforderung",
+    "Plural": "Anforderungen",
+    "Englisch": "Demand, Requirement"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Aufgabe",
+    "Plural": "Aufgaben",
+    "Englisch": "Task, Assignment"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Spezialit�t",
+    "Plural": "Spezialit�ten",
+    "Englisch": "Speciality"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Grenze",
+    "Plural": "Grenzen",
+    "Englisch": "Border"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Praxis",
+    "Plural": "Praxen",
+    "Englisch": "Doctor's office"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Baustelle",
+    "Plural": "Baustellen",
+    "Englisch": "Construction site"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Pr�fung",
+    "Plural": "Pr�fungen",
+    "Englisch": "Exam"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Socke",
+    "Plural": "Socken",
+    "Englisch": "Socks"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kleidung",
+    "Plural": "",
+    "Englisch": "Clothing"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Mode",
+    "Plural": "Moden",
+    "Englisch": "Fashion"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Hose",
+    "Plural": "Hosen",
+    "Englisch": "Pant"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Jacke",
+    "Plural": "Jacken",
+    "Englisch": "Jacket"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Jeans",
+    "Plural": "-",
+    "Englisch": "Jeans"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Uhr",
+    "Plural": "Uhren",
+    "Englisch": "Watch, Clock"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Post",
+    "Plural": "-",
+    "Englisch": "Post"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Umkleidekabine",
+    "Plural": "Umkleidekabinen",
+    "Englisch": "changing/fitting room"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Bluse",
+    "Plural": "Blusen",
+    "Englisch": "Blouse"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Freizeitkleidung",
+    "Plural": "-",
+    "Englisch": "Leisure wear"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Damenmode",
+    "Plural": "-",
+    "Englisch": "Women Fashion"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Herrenmode",
+    "Plural": "-",
+    "Englisch": "Men Fashion"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "-",
+    "Plural": "Schreibwaren",
+    "Englisch": "Stationary"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Batterie",
+    "Plural": "Batterien",
+    "Englisch": "Battery"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kosmetik",
+    "Plural": "-",
+    "Englisch": "Cosmetics"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Zeitschrift",
+    "Plural": "Zeitschriften",
+    "Englisch": "Magazine"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Szene",
+    "Plural": "-",
+    "Englisch": "Scene"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Haar",
+    "Plural": "Haare",
+    "Englisch": "Hair"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Nase",
+    "Plural": "Nasen",
+    "Englisch": "Nose"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Zunge",
+    "Plural": "Zungen",
+    "Englisch": "Tongue"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "-",
+    "Plural": "Schmerzen",
+    "Englisch": "ache, pain"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Erk�ltung",
+    "Plural": "",
+    "Englisch": "Cold"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Spritze",
+    "Plural": "Spritzen",
+    "Englisch": "Syringe"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Salbe",
+    "Plural": "Salben",
+    "Englisch": "Ointment"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Tablette",
+    "Plural": "Tabletten",
+    "Englisch": "Tablet, Pill"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kontrolle",
+    "Plural": "Kontrollen",
+    "Englisch": "scrutiny, Surveillance"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Burst",
+    "Plural": "Bursts",
+    "Englisch": "Cheast"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Cr�me",
+    "Plural": "Cremes",
+    "Englisch": "Cream"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Siefe",
+    "Plural": "Siefen",
+    "Englisch": "Soap"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Arzthelferin",
+    "Plural": "Arzthelferinen",
+    "Englisch": "Doctor's assistant (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Physiotherapeutin",
+    "Plural": "Physiotherapeutinen",
+    "Englisch": "Physiotherapist (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Apothekerin",
+    "Plural": "Apothekerinen",
+    "Englisch": "Pharmacist (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Fahrradtour",
+    "Plural": "Fahrradtouren",
+    "Englisch": "Bicycle tour"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Jugendherberge",
+    "Plural": "Jugendherbergen",
+    "Englisch": "Youth Hostel"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Reise",
+    "Plural": "Reisen",
+    "Englisch": "Travel"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Handtasche",
+    "Plural": "-",
+    "Englisch": "Hand Bag"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Badehose",
+    "Plural": "Badehosen",
+    "Englisch": "bathing trunks"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sandale",
+    "Plural": "Sandalen",
+    "Englisch": "Sandals"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sonnenbrille",
+    "Plural": "Sonnenbrillen",
+    "Englisch": "Sun glass"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sonnencreme",
+    "Plural": "Sonnencremes",
+    "Englisch": "Sun cream"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Stadtf�hrung",
+    "Plural": "Stadtf�hrungen",
+    "Englisch": "City tour"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Haltestelle",
+    "Plural": "Haltestellen",
+    "Englisch": "Bus stop, station"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Landschaft",
+    "Plural": "Landshaften",
+    "Englisch": "Landscape"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "K�ste",
+    "Plural": "K�sten",
+    "Englisch": "Coast, Shore"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sonne",
+    "Plural": "-",
+    "Englisch": "Sun"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Heizung",
+    "Plural": "-",
+    "Englisch": "Heating"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "L�sung",
+    "Plural": "L�sungen",
+    "Englisch": "Solution"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Losung",
+    "Plural": "Losungen",
+    "Englisch": "Slogan, Password"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kunst",
+    "Plural": "K�nsten",
+    "Englisch": "Art"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "�bung",
+    "Plural": "�bungen",
+    "Englisch": "Exercise, Practice"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Wolke",
+    "Plural": "Wolken",
+    "Englisch": "Cloud"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Stunde",
+    "Plural": "Stunden",
+    "Englisch": "Hour"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Zeit",
+    "Plural": "Zeiten",
+    "Englisch": "Time"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Zeitung",
+    "Plural": "Zeitungen",
+    "Englisch": "Newspaper"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Nachricht",
+    "Plural": "Nachrichten",
+    "Englisch": "News, Message"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sekunde",
+    "Plural": "Sekunden",
+    "Englisch": "Second"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Minute",
+    "Plural": "Minuten",
+    "Englisch": "Minute"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Bestellung",
+    "Plural": "Bestellungen",
+    "Englisch": "Order, appointment"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Kasse",
+    "Plural": "Kassen",
+    "Englisch": "Checkout counter"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Zahlung",
+    "Plural": "Zahlungen",
+    "Englisch": "Payment"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Vorwahl",
+    "Plural": "Vorwahlen",
+    "Englisch": "dialing code"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "H�he",
+    "Plural": "H�hen",
+    "Englisch": "Height"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Agentur",
+    "Plural": "Agenturen",
+    "Englisch": "Agency"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Fabrik",
+    "Plural": "Fabriken",
+    "Englisch": "Factory"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Ecke",
+    "Plural": "Ecken",
+    "Englisch": "Corner"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Ankunft",
+    "Plural": "Ank�nfte",
+    "Englisch": "Arrival"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Abfahrt",
+    "Plural": "Abfahrten",
+    "Englisch": "Departure"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Vorlesung",
+    "Plural": "Vorlesungen",
+    "Englisch": "Lecture"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Verabredung",
+    "Plural": "Verabredungen",
+    "Englisch": "Appointment"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Betonung",
+    "Plural": "Betonungen",
+    "Englisch": "Emphasis"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Wegbeschreibung",
+    "Plural": "Wegbeschreibungen",
+    "Englisch": "Directions"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Heimat",
+    "Plural": "Heimaten",
+    "Englisch": "native, homeland"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Filtert�te",
+    "Plural": "Filtert�ten",
+    "Englisch": "Filter bag"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Autobahn",
+    "Plural": "Autobahnen",
+    "Englisch": "Expressway"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Versp�tung",
+    "Plural": "Versp�tungen",
+    "Englisch": "Delay"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Wirtschaft",
+    "Plural": "Wirtschaften",
+    "Englisch": "Economy, Pub"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Besprechung",
+    "Plural": "Besprechungen",
+    "Englisch": "Meeting"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Mahlzeit",
+    "Plural": "Mahlzeiten",
+    "Englisch": "Meal"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Hochzeit",
+    "Plural": "Hochzeit",
+    "Englisch": "Wedding"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Er�ffnung",
+    "Plural": "Er�ffnungen",
+    "Englisch": "Opening, Inauguration"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Lage",
+    "Plural": "Lagen",
+    "Englisch": "Location, Position"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Eingang",
+    "Plural": "Eing�nge",
+    "Englisch": "Entry, Entrance"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Etage",
+    "Plural": "Etagen",
+    "Englisch": "Floor"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Stadtrundfahrt",
+    "Plural": "Stadtrundfahrten",
+    "Englisch": "City tour"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Bekannte",
+    "Plural": "Bekannte",
+    "Englisch": "Known people, relatives"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Geschichte",
+    "Plural": "Geschichten",
+    "Englisch": "Story"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Sehensw�rdigkeit",
+    "Plural": "Sehensw�rdigkeiten",
+    "Englisch": "Tourist Spots"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Besserung",
+    "Plural": "Besserungen",
+    "Englisch": "Recovery"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Veranstaltung",
+    "Plural": "Veranstaltungen",
+    "Englisch": "Event"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Zeichnung",
+    "Plural": "Zeichnungen",
+    "Englisch": "Drawing, Sketch"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Trage",
+    "Plural": "Tragen",
+    "Englisch": "Stretcher"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Zeitangabe",
+    "Plural": "Zeitangaben",
+    "Englisch": "Date"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Uhrzeit",
+    "Plural": "Uhrzeiten",
+    "Englisch": "Time"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Tafel",
+    "Plural": "Tafeln",
+    "Englisch": "Board"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Handynummer",
+    "Plural": "Handynummern",
+    "Englisch": "Mobile number"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Journalistin",
+    "Plural": "Journalistinen",
+    "Englisch": "Journalist (f)"
+  },
+  {
+    "Artikel": "die",
+    "Noun": "Taxifahrerin",
+    "Plural": "Taxifahrerinen",
+    "Englisch": "Taxi driver (f)"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Land",
+    "Plural": "L�nder",
+    "Englisch": "Country"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Caf�",
+    "Plural": "Caf�s",
+    "Englisch": "Coffee shop"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fu�ballstadion",
+    "Plural": "Fu�ballstadien",
+    "Englisch": "Football stadium"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Kino",
+    "Plural": "Kinos",
+    "Englisch": "Cinema theater"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Museum",
+    "Plural": "Museen",
+    "Englisch": "Museum"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Restaurant",
+    "Plural": "Restaurants",
+    "Englisch": "Restaurant"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Schwimmenbad",
+    "Plural": "Schwimmenb�der",
+    "Englisch": "Swimming pool"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Theater",
+    "Plural": "-",
+    "Englisch": "Theater"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Hobby",
+    "Plural": "Hobbys",
+    "Englisch": "Hobby"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Buch",
+    "Plural": "B�cher",
+    "Englisch": "Book"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Wochenende",
+    "Plural": "Wochenenden",
+    "Englisch": "Weekend"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Formular",
+    "Plural": "Formulare",
+    "Englisch": "Form"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Geburtsdatum",
+    "Plural": "Geburtsdaten",
+    "Englisch": "Birth date"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fahrrad",
+    "Plural": "Fahrr�der",
+    "Englisch": "bicycle"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Flugzeug",
+    "Plural": "Flugzeuge",
+    "Englisch": "Aeroplane"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Schiff",
+    "Plural": "Schiffe",
+    "Englisch": "Ship"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Ticket",
+    "Plural": "Tickets",
+    "Englisch": "Ticket"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gesh�ft",
+    "Plural": "Gesh�fte",
+    "Englisch": "Shop"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Hotel",
+    "Plural": "Hotels",
+    "Englisch": "Hotel"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Meer",
+    "Plural": "Meere",
+    "Englisch": "Beach"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Rathaus",
+    "Plural": "Rath�user",
+    "Englisch": "Town office"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Event",
+    "Plural": "Events",
+    "Englisch": "Event"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Festival",
+    "Plural": "Festivals",
+    "Englisch": "Festival"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Konzart",
+    "Plural": "Konzarte",
+    "Englisch": "Concert"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Orchestrer",
+    "Plural": "-",
+    "Englisch": "Orchestra"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Salz",
+    "Plural": "-",
+    "Englisch": "Salt"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "�l",
+    "Plural": "�le",
+    "Englisch": "Oil"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Brot",
+    "Plural": "Brote",
+    "Englisch": "Bread"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Br�tchen",
+    "Plural": "-",
+    "Englisch": "Breadrolls"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Ei",
+    "Plural": "Eier",
+    "Englisch": "Egg"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fleisch",
+    "Plural": "-",
+    "Englisch": "Meat"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "H�hnchen",
+    "Plural": "-",
+    "Englisch": "Poultry"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Glas",
+    "Plural": "Gl�ser",
+    "Englisch": "Glass"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Kilogramm",
+    "Plural": "-",
+    "Englisch": "Kilo gram"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gramm",
+    "Plural": "-",
+    "Englisch": "gram"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Bier",
+    "Plural": "Biere",
+    "Englisch": "Beer"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Wasser",
+    "Plural": "-",
+    "Englisch": "Water"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Essen",
+    "Plural": "-",
+    "Englisch": "Food"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fr�hst�ck",
+    "Plural": "-",
+    "Englisch": "Breakfast"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Mittagessen",
+    "Plural": "-",
+    "Englisch": "Lunch"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Abendessen",
+    "Plural": "-",
+    "Englisch": "Dinner"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "M�sli",
+    "Plural": "M�slis",
+    "Englisch": "Cereal"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Training",
+    "Plural": "Trainings",
+    "Englisch": "Training"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Baby",
+    "Plural": "Babys",
+    "Englisch": "Baby"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Kind",
+    "Plural": "Kinder",
+    "Englisch": "Child"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "M�dchen",
+    "Plural": "-",
+    "Englisch": "Girl"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Motorrad",
+    "Plural": "Motorr�der",
+    "Englisch": "Motor bike"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Datum",
+    "Plural": "Daten",
+    "Englisch": "Data"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fest",
+    "Plural": "Feste",
+    "Englisch": "Festival"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Picknick",
+    "Plural": "Picknicks",
+    "Englisch": "Picknick"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Geschenk",
+    "Plural": "Geschenke",
+    "Englisch": "Gift"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Eis",
+    "Plural": "-",
+    "Englisch": "Icecream"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Trinkgeld",
+    "Plural": "-",
+    "Englisch": "Tip"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Kaffeehaus",
+    "Plural": "Kaffeeh�user",
+    "Englisch": "Coffee house"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Lokal",
+    "Plural": "Lokale",
+    "Englisch": "Pub"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Amt",
+    "Plural": "�mter",
+    "Englisch": "Office, Department"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Material",
+    "Plural": "Materialien",
+    "Englisch": "Material"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Treffen",
+    "Plural": "-",
+    "Englisch": "Meeting"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Netzwerk",
+    "Plural": "Netzwerke",
+    "Englisch": "Network"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Zimmer",
+    "Plural": "Zimmer",
+    "Englisch": "Room"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Bad",
+    "Plural": "B�der",
+    "Englisch": "Bathroom"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Ger�t",
+    "Plural": "Gerate",
+    "Englisch": "Device, Appliance"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Hochhaus",
+    "Plural": "Hochh�user",
+    "Englisch": "sky scrapper"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Reihenhaus",
+    "Plural": "Reihenh�us",
+    "Englisch": "Row house"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Tuch",
+    "Plural": "T�cher",
+    "Englisch": "Scarf, Cloth"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Bett",
+    "Plural": "Betten",
+    "Englisch": "Bed"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Regal",
+    "Plural": "Regale",
+    "Englisch": "Shelf, Rack"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fenster",
+    "Plural": "Fenster",
+    "Englisch": "Window"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Sofa",
+    "Plural": "Sofas",
+    "Englisch": "Sofa"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Projekt",
+    "Plural": "Projekte",
+    "Englisch": "Venture, Project"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Kaufhaus",
+    "Plural": "Kaufh�user",
+    "Englisch": "Store, Mall"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Seminar",
+    "Plural": "Seminare",
+    "Englisch": "Seminar"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Studium",
+    "Plural": "Studien",
+    "Englisch": "Study"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Abitur",
+    "Plural": "Abiture",
+    "Englisch": "High school diploma"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Hemd",
+    "Plural": "Hemden",
+    "Englisch": "Shirt"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Kleid",
+    "Plural": "Kleider",
+    "Englisch": "Dress"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "T-Shirt",
+    "Plural": "T-Shirts",
+    "Englisch": "T-Shirt"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gesch�ft",
+    "Plural": "Gesch�fte",
+    "Englisch": "Shop"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Paket",
+    "Plural": "Pakete",
+    "Englisch": "Parcel, Package"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Erdgeschoss",
+    "Plural": "-",
+    "Englisch": "Ground Floor"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Untergeschoss",
+    "Plural": "-",
+    "Englisch": "Underground"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Zubeh�r",
+    "Plural": "-",
+    "Englisch": "Accessories"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fitnessger�t",
+    "Plural": "Fitnessger�te",
+    "Englisch": "Gym machine"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "P�rfum",
+    "Plural": "P�rfume",
+    "Englisch": "Perfume"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Souvenir",
+    "Plural": "Souvenirs",
+    "Englisch": "Souvenir"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gesicht",
+    "Plural": "Gesichter",
+    "Englisch": "Face"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Auge",
+    "Plural": "Augen",
+    "Englisch": "Eye"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Ohr",
+    "Plural": "Ohren",
+    "Englisch": "Ear"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Experiment",
+    "Plural": "Experimente",
+    "Englisch": "Experiment"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Bein",
+    "Plural": "Beine",
+    "Englisch": "Leg"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Knie",
+    "Plural": "Knie",
+    "Englisch": "Knee"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Herz",
+    "Plural": "Herzen",
+    "Englisch": "Heart"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fieber",
+    "Plural": "-",
+    "Englisch": "Fever"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Rezept",
+    "Plural": "Rezepte",
+    "Englisch": "Prescription, recipe"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Pflaster",
+    "Plural": "-",
+    "Englisch": "Plaster"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Shampoo",
+    "Plural": "Shampoos",
+    "Englisch": "Shampoo"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Reiseb�ro",
+    "Plural": "Reiseb�ros",
+    "Englisch": "Travel Agency"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gep�ck",
+    "Plural": "-",
+    "Englisch": "Luggage"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Zelt",
+    "Plural": "Zelte",
+    "Englisch": "Tent"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Wetter",
+    "Plural": "-",
+    "Englisch": "Weather"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gewitter",
+    "Plural": "Gewitter",
+    "Englisch": "Thunderstorm"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Jahr",
+    "Plural": "Jahre",
+    "Englisch": "Year"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Radio",
+    "Plural": "Radios",
+    "Englisch": "Radio"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Angebot",
+    "Plural": "Angeboten",
+    "Englisch": "Offer"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gewicht",
+    "Plural": "Gewichte",
+    "Englisch": "Weight"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Loft",
+    "Plural": "Lofts",
+    "Englisch": "Studio apartment"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Praktikum",
+    "Plural": "Praktika",
+    "Englisch": "Training, Internship"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Lebensmittel",
+    "Plural": "Lebensmittel",
+    "Englisch": "Groceries"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gespr�ch",
+    "Plural": "Gespr�che",
+    "Englisch": "Conversation"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Ausland",
+    "Plural": "-",
+    "Englisch": "Foreign Countries"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Heft",
+    "Plural": "Hefte",
+    "Englisch": "Notebook"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "�bernachten",
+    "Plural": "-",
+    "Englisch": "Overnight Stay"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Fazit",
+    "Plural": "Fazits",
+    "Englisch": "Conclusion, bottomline"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gericht",
+    "Plural": "Gerichte",
+    "Englisch": "Dish"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Paar",
+    "Plural": "Paare",
+    "Englisch": "Pair, Couple"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Gleis",
+    "Plural": "Gleise",
+    "Englisch": "platform, track"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Mitglied",
+    "Plural": "Mitglieder",
+    "Englisch": "Member"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Einzelzimmer",
+    "Plural": "Einzelzimmer",
+    "Englisch": "1 bed room"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Doppelzimmer",
+    "Plural": "Doppelzimmer",
+    "Englisch": "Double bedroom"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Konto",
+    "Plural": "Konten",
+    "Englisch": "Account"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Besteck",
+    "Plural": "Bestecke",
+    "Englisch": "Cutlery"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "R�ntgen",
+    "Plural": "-",
+    "Englisch": "X-Ray"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Blatt",
+    "Plural": "Bl�tter",
+    "Englisch": "Leaf, Page, Paper"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Reiseziel",
+    "Plural": "Reiseziele",
+    "Englisch": "Travel Destination"
+  },
+  {
+    "Artikel": "das",
+    "Noun": "Papier",
+    "Plural": "Papiere",
+    "Englisch": "Paper"
+  }
+]

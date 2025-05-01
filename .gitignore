@@ -1,0 +1,78 @@
+# Build outputs
+bin/
+obj/
+
+# Platform-specific build outputs (more explicit)
+**/bin/*
+**/obj/*
+
+# Android-specific ignores
+Android/bin/
+Android/obj/
+Android/Properties/AndroidManifest.xml.orig
+Android/assets/Xamarin.Android.Support.*.dll
+Android/gen/
+
+# iOS-specific ignores
+iOS/bin/
+iOS/obj/
+iOS/.DS_Store
+iOS/bin/*/AppStore/
+iOS/bin/*/device-builds/
+iOS/obj/*/actool/bundle/
+iOS/obj/*/actool/cloned-bundle/
+iOS/obj/*/actool/partial-info.plist
+iOS/obj/*/mt.staticregistrar.log
+iOS/obj/*/LinkInfo.xml.orig
+iOS/obj/*/RefitStubs.g.cs
+iOS/obj/*/GeneratedCode/
+iOS/obj/*/DesignTimeBuild/
+
+# Windows-specific ignores
+win/bin/
+win/obj/
+win/.vs/
+
+# macOS-specific ignores
+macOS/bin/
+macOS/obj/
+macOS/.vs/
+
+# Visual Studio related files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# NuGet related files
+packages/
+*.nupkg
+*.snupkg
+
+# Node.js and npm related (if applicable)
+**/node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+*.swp
+*.~
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Other environment specific files
+.DS_Store
+
+# Ignore any published output
+publish/
+
+# Optional: Ignore specific NuGet package folders if you don't want to track them
+# **/packages/Xamarin.Forms*
+
+# Optional: Ignore specific user secrets
+# **/.vs/secret.json

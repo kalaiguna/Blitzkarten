@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- BlitzKarteView.xaml -->
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:Blitzkarten.Models"
+             x:DataType="models:BlitzKarte"
+             x:Class="Blitzkarten.Controls.BlitzKarteView"             
+             x:Name="this">
+    <!--x:DataType="models:BlitzKarte"-->
+    <Grid>
+        <!-- Back View -->
+        <Border x:Name="backView"
+               IsVisible="False"
+               BackgroundColor="{AppThemeBinding Light={StaticResource PrimaryDarkText}, Dark={StaticResource Primary}}"
+               Padding="20"
+               HorizontalOptions="Fill"
+               VerticalOptions="Fill"
+               Stroke="LightGray"
+               StrokeThickness="1">
+            <Label Text="{Binding Englisch}"
+                   FontSize="36"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   FontAttributes="Bold"                   
+                   TextColor="White"/>
+        </Border>
+
+        <!-- Front View -->
+        <Border x:Name="frontView"
+               BackgroundColor="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource Secondary}}"
+               Padding="20"
+               HorizontalOptions="Fill"
+               VerticalOptions="Fill"               
+               Stroke="LightGray"
+               StrokeThickness="1">
+            <VerticalStackLayout Spacing="10" VerticalOptions="Center">
+                <Label Text="{Binding Artikel}"
+                       FontSize="28"
+                       HorizontalOptions="Center"
+                       TextColor="White"/>
+                <Label Text="{Binding Noun}"
+                       FontSize="36"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       TextColor="White"/>
+                <Label Text="{Binding Plural}"
+                       FontSize="30"
+                       HorizontalOptions="Center"
+                       TextColor="White"/>
+            </VerticalStackLayout>
+        </Border>
+
+        <Grid.GestureRecognizers>
+            <TapGestureRecognizer Tapped="OnTapped"/>
+        </Grid.GestureRecognizers>
+    </Grid>
+</ContentView>
+    

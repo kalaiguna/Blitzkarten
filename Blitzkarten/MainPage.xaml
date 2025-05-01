@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"  
+           xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
+           xmlns:controls="clr-namespace:Blitzkarten.Controls"  
+           xmlns:viewmodel="clr-namespace:Blitzkarten.ViewModels"  
+           x:Class="Blitzkarten.MainPage"  
+           x:DataType="viewmodel:MainViewModel"  
+           Title="Blitz Karten!⚡🃏"  
+           Padding="0"
+           >
+
+    <Grid RowDefinitions="*,Auto,Auto"  
+        RowSpacing="10" Padding="0">
+
+        <!-- Flash Card - Now takes maximum width -->
+        <controls:BlitzKarteView BlitzKarte="{Binding CurrentCard}"  
+                               x:Name="bk"  
+                               HorizontalOptions="Fill"  
+                               VerticalOptions="Fill"
+                               Margin="10"  
+                               Grid.Row="0"/>
+
+        <!-- Navigation Buttons - More compact design -->
+        <Grid ColumnDefinitions="*,*"  
+            ColumnSpacing="10"  
+            Padding="20,0"  
+            Grid.Row="1">
+            <Button Text="⬅ Previous"  
+       Command="{Binding PreviousCardCommand}"  
+       Grid.Column="0"  
+       HeightRequest="40"  
+       CornerRadius="24"  
+       FontAttributes="Bold"/>
+
+            <Button Text="Next ➡"  
+       Command="{Binding NextCardCommand}"  
+       Grid.Column="1"  
+       HeightRequest="40"  
+       CornerRadius="24"  
+       FontAttributes="Bold"/>
+        </Grid>
+
+        <!-- Progress Indicator - More subtle styling -->
+        <Label Text="{Binding CurrentProgress}"  
+             HorizontalOptions="Center"  
+             Grid.Row="2"  
+             Margin="0,0,0,10"  
+             FontSize="20"  
+             FontAttributes="Bold"
+             TextColor="{AppThemeBinding Light=Gray, Dark=LightGray}"/>
+    </Grid>
+</ContentPage>
+    
